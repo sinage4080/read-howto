@@ -1,34 +1,38 @@
-Usage
+요즘 중국 정부가 세계 최대 카지노 도시 마카오에 대한 제재를 강화했습니다.
+
 =====
 
-.. _installation:
+요즘 중국 정부가 세계 최대 카지노 도시 마카오에 대한 제재를 강화했습니다.
 
-Installation
-------------
 
-To use Lumache, first install it using pip:
+코로나 19로 이미 초토화된 마카오 카지노 업계는 또 한 번 치명상을 입고 말았는데요.
 
-.. code-block:: console
+어떤 일이 일어난 것인지 자세히 알아보도록 하겠습니다.
+먼저 마카오는 중국 남부에 있는 도시로 홍콩과 한 세트로 인식되는데요.
 
-   (.venv) $ pip install lumache
+지리적으로 근접하지만 홍콩은 영국의 식민지
+마카오는 포르투갈의 식민지 도시라는 차이가 있습니다.
 
-Creating recipes
-----------------
+마카오는 1999년 중국에게 정식 반환되어 50년간 기존 체제를 유지하는 일국양제가 적용되고 있습니다.
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+일국양제란 하나의 두 개의 제도라는 뜻으로 마카오는 중국에 속하지만 사회주의가 아닌 자본주의 체제를 적용한다는 의미입니다.
 
-.. autofunction:: lumache.get_random_ingredients
+인구는 65만 명이고 면적은
+서울 은평구 정도의 크기로 1인당 gdp는 무려 8만 달러를 넘는 작지만 잘 사는 도시입니다.
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+마카오는 1542년에 포르투갈의 교역 기지가 되어 대중국 수출입 거점 역할을 했습니다.
+이는 홍콩보다 300여 년 앞선 시점이었죠.
 
-.. autoexception:: lumache.InvalidKindError
+16세기 대항해 시대에 당시는 스페인과 포르투갈이 세계 최대 강국이었는데 이때 포르투갈은 마카오를 차지했던 것이며
 
-For example:
+영국이 홍콩을 차지한 때는 300년 후인 1841년으로 대형제국의 전성기였습니다.
 
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+인접한 두 도시 홍콩과 마카오는 여러 부문에서 비교가 되곤 하는데 특히 중국에 대한 감정이 크게 차이 납니다.
 
+
+[카지노사이트](https://projectfluent.io/)   검증 플랫폼 카지노컴퍼니
+
+- `바카라사이트 <https://projectfluent.io/>`_
+
+
+- `바카라사이트 플랫폼 카지노컴퍼니 <https://projectfluent.io/>`_
